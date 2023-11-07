@@ -1,4 +1,4 @@
-<h3 align="center">⭐ I am a final year student of B.Tech in Information Technology at D.Y. Patil College of Engineering, Akurdi</h3>
+<h3 align="center">⭐ I am a final year student of B.Tech in Information Technology <br> at D.Y. Patil College of Engineering, Akurdi</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohit-0011" alt="mohit-0011" /></a> </p>
 
