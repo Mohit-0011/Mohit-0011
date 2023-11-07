@@ -1,7 +1,5 @@
 <h3 align="center">⭐ I am a final year student of B.Tech in Information Technology <br> at D.Y. Patil College of Engineering, Akurdi</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohit-0011" alt="mohit-0011" /></a> </p>
-
 - ➡️ DSA (https://github.com/Mohit-0011/DSA)
 
 - ➡️ [Web Development Project](https://github.com/Mohit-0011/Frontend_Projects)
@@ -16,6 +14,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohit-0011&show_icons=true&locale=en" alt="mohit-0011" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-0011&" alt="mohit-0011" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohit-0011" alt="mohit-0011" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
