@@ -1,6 +1,7 @@
+![logo](https://github.com/Mohit-0011/Mohit-OOII/blob/main/1652039147640.jpg)
 <h3 align="center">⭐ I am a final year student of B.Tech in Information Technology <br> at D.Y. Patil College of Engineering, Akurdi</h3>
 
-- ➡️ DSA (https://github.com/Mohit-0011/DSA)
+- ➡️ [DSA](https://github.com/Mohit-0011/DSA)
 
 - ➡️ [Web Development Project](https://github.com/Mohit-0011/Frontend_Projects)
 
