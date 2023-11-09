@@ -1,6 +1,9 @@
 ![logo](https://github.com/Mohit-0011/Mohit-OOII/blob/main/1652039147640.jpg)
 <h3 align="center">⭐ I am a final year student of B.Tech in Information Technology <br> at D.Y. Patil College of Engineering, Akurdi</h3>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F5F5F5&background=000000&width=435&lines=A+WEB+DEVELOPER;A+Software+Developer;A+Writer alt="Typing SVG" /></a>
+
+
 - ➡️ [DSA](https://github.com/Mohit-0011/DSA)
 
 - ➡️ [Web Development Project](https://github.com/Mohit-0011/Frontend_Projects)
